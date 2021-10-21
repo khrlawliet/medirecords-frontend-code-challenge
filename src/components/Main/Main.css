@@ -1,0 +1,14 @@
+.main {
+    width: 100%;
+}
+
+.main-title {
+    font-size: 50px;
+}
+
+.main-holder {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+}
